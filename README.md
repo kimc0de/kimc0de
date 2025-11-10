@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kim. Welcome to my HUB</h1>
 <h3 align="center">Fullstack - Frontend - Public Speaker - Tech Event Organizer</h3>
 
-- 🔭 I’m currently working on **some rebranding projects for clients of Netlight**
+- 🔭 I’m currently working on **a rebranding project for a client of Netlight**
 
 - 🌱 I’m currently learning **more about GenAI, and German language T.T**
 
