@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kim. Welcome to my HUB</h1>
 <h3 align="center">Fullstack - Frontend - Public Speaker - Tech Event Organizer</h3>
 
-- 🔭 I’m currently working on **a rebranding project for a client of Netlight**
+- 🔭 I’m currently working in **Inspirational Journey Team at home24**
 
-- 🌱 I’m currently learning **more about GenAI, and German language T.T**
+- 🌱 I’m currently learning **more about AI in software development, and German language T.T**
 
 - 📝 I wrote an articles on keyboard a11y a while ago: [Keyboard Accessibility](https://medium.com/zattoo_tech/keyboard-accessibility-3206a315e517)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [here's my LinkedIn](https://www.linkedin.com/in/kimc0de)
 
-- ⚡ Fun fact about me... **Im a full-time cat mom hihi:D**
+- ⚡ Fun fact about me... **Im a full-time cat mom hihi :D**
 
 <h3 align="left">Connect with me :) </h3>
 <p align="left">
