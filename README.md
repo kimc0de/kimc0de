@@ -7,12 +7,15 @@
 
 - 📝 I wrote an articles on keyboard a11y a while ago: [Keyboard Accessibility](https://medium.com/zattoo_tech/keyboard-accessibility-3206a315e517)
 
-- 💬 I'd love to yap about **react, accessibility, the chaos and drama of life, mental health, pop culture, and blablabla**
+- 💬 I'd love to yap about **react, AI AI AI, accessibility, the chaos and drama of life, mental health, pop culture, and blablabla**
 
 - 📄 Know about my experiences: [here's my LinkedIn](https://www.linkedin.com/in/kimc0de)
 
 - ⚡ Fun fact about me... **Im a full-time cat mom hihi :D**
-
+- 🗓️ Events in Berlin I'm organizing:
+  - [Berlin AI Meetup](https://luma.com/berlin-ai)
+  - [React Day Berlin, React Berlin Meetup](https://www.linkedin.com/showcase/react-day-berlin/posts/?feedView=all)
+  
 <h3 align="left">Connect with me :) </h3>
 <p align="left">
 <a href="https://twitter.com/kimc0de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kimc0de" height="30" width="40" /></a>
